@@ -61,7 +61,6 @@
     <Compile Include="Assets\DeepLerning\Scripts\Gameplay\Controllers\CameraController.cs" />
     <Compile Include="Assets\DeepLerning\Scripts\NeuralNet (With Genetic Algorithm)\NeuralNetwork.cs" />
     <Compile Include="Assets\DeepLerning\Scripts\Algorithms\GeneticsManager.cs" />
-    <Compile Include="Assets\HelloWorld.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\DeepLerning\Plugins\MathNet.Numerics.xml" />
